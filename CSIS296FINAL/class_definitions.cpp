@@ -1,1 +1,4 @@
-#include "class_generic"
+#include "generic_class"
+#include <string>
+#include <memory>
+
